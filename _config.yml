@@ -1,1 +1,16 @@
 theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/dunklecat" }
+
+header_pages:
+  - about.md
+  - portfolio.md
+
+show_excerpts: true
+
+author:
+  name: dunklecat
+  email: "me@dunklecat.dev"
